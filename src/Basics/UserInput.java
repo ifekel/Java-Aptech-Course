@@ -1,4 +1,4 @@
-package MadMax;
+package Basics;
 
 import java.util.Scanner;
 

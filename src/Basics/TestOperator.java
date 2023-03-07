@@ -1,4 +1,4 @@
-package MadMax;
+package Basics;
 
 public class TestOperator {
     public static void main(String[] args) {

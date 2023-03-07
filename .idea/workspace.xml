@@ -1,25 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925e629e-a285-4539-86f2-81076443dcb8" name="Changes" comment="" />
+    <list default="true" id="925e629e-a285-4539-86f2-81076443dcb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MadMax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/OneDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Formatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TestOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Parameterized_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Points.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes_and_Objects/References.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decision_Making/BankDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decision_Making/If_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decision_Making/LifeMaxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decision_Making/SwitchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decision_Making/VowelsAndConsonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Break_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Continue_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Do_While_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Labeling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/MenuCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Nested_For_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/Prime_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looping_Construct/While_Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/DeviceDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_and_Access_Specifiers/Varargs.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LrbcT84sP4igPBFl0srgicC8D2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.StringArray">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Strings.ArrayLists" />
+      <module name="MadMax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Odd_and_Even_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_and_Access_Specifiers.Odd_and_Even_Numbers" />
+      <module name="MadMax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Method_and_Access_Specifiers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Strings.OneDimension" />
+      <module name="MadMax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Strings.StringArray" />
+      <module name="MadMax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Strings.Strings" />
+      <module name="MadMax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringArray" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.OneDimension" />
+        <item itemvalue="Application.Odd_and_Even_Numbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,5 +175,20 @@
       <updated>1676632234007</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
